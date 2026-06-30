@@ -229,3 +229,7 @@ eb_jepa_ICLR/
 arxiv/
 arxiv_tmp/
 CLAUDE.md
+
+# container specific ignores
+*.tar
+*.sif
